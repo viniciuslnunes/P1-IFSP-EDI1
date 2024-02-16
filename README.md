@@ -1,4 +1,4 @@
-# Estrutura de dados  P1
+# Proposta da P1
 
 Baseado na atividade associada à aula de 19/04/2022 que tratou da implementação da classe Contato, criar um vetor contatos (composto por objetos da classe Contato) com 10 ocorrências.
 
